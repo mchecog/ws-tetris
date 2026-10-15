@@ -63,16 +63,16 @@ Cualquier servidor estático funciona. Algunos ejemplos:
 
 ```bash
 # Con Python 3
-python3 -m http.server 8000
+python3 -m http.server 8020
 
 # Con Node.js (npx)
 npx serve .
 
 # Con PHP
-php -S localhost:8000
+php -S localhost:8020
 ```
 
-Después abre `http://localhost:8000` en el navegador.
+Después abre `http://localhost:8020` en el navegador.
 
 ---
 
